@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100&display=swap');
+body{background-color: #f4f4f4;
+;}
+h1{color: #373737; font-size: 50px;}
+p{font-size: 40px;
+color: #373737;}
+
+p#intro1{color: #c59f20;  font-size: 20px; text-align: justify; font-family:'Roboto Mono', monospace;}
+p#intro2{color: #373737; font-size: 30px;text-align: justify;}
+p#intro3{color: #373737; font-size: 30px;text-align: justify;}
+
+article#lista{
+    width: auto;
+    height: auto;   
+    background-color: #c0b283;
+    border-color: #373737;
+    outline-width: 2px;
+    outline-style:solid;
+    outline-color: rgb(255, 255, 255);
+}
+p#lista{ color: rgb(255, 255, 255);
+font-size: 40px;}
+ul#lista{ color: rgb(255, 255, 255);
+    font-size: 25px;}
+
+article#local1{
+   text-align: center;
+    width: auto;
+    height: auto;
+    background-color:#dcd0c0;
+    border-style: solid;
+    border-color: #373737;
+    padding: 20px;        
+} 
+
+p#local1{ color: #373737;}
+
+article#local2{ 
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-color: #dcd0c0;
+    border-style: solid;
+    border-color: #373737;
+    padding: 20px;     
+       
+} 
+p#local2{ color: #373737;}
+
+article#local3{ 
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-color: #dcd0c0;
+    border-style: solid;
+    border-color: #373737;
+    padding: 20px;
+    }
+p#local3{ color: #373737;} 
+
+p#voltar{text-align: center;}
+
+a:visited{ color: rgb(255, 0, 0);}
+a:hover{ color: rgb(0, 0, 0);} 
